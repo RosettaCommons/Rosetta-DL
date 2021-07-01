@@ -1,6 +1,6 @@
 # Rosetta-DL Software
 
-#Non-Commercial License Agreement
+# Non-Commercial License Agreement
 
 Software, data, or weights belonging to the Rosetta-DL package ("Software") have been developed by the contributing researchers and institutions of the Rosetta Commons ("Developers") and made available through the University of Washington ("UW") for your internal, non-profit, non-commercial research use. For more information about the Rosetta Commons, please see www.rosettacommons.org.
 
