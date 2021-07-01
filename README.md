@@ -1,7 +1,7 @@
 # Rosetta-DL
 A bundle of deep-learning packages for biomolecular structure prediction and design contributed to the [Rosetta Commons](https://www.rosettacommons.org).
 
-The packages listed below are provided by contributors to the Rosetta Commons for free for non-commercial use under the Rosetta-DL Non-Commercial Licensing Agreement or a more permissive license. 
+The packages listed below are provided by contributors to the Rosetta Commons for free for non-commercial use under the [Rosetta-DL Non-Commercial Licensing Agreement](https://github.com/RosettaCommons/Rosetta-DL/blob/main/LICENSE.md) or a more permissive license. 
 
 For commercial licensing of this bundle, please contact the University of Washington CoMotion (license@uw.edu), which manages these packages on behalf of the Rosetta Commons member institutions. Licensing revenue supports the Rosetta Commons research community by funding conferences, workshops, summer interns and post-baccalaureate scholars, mini-grants, user support, documentation and code infrastructure and testing.
 
