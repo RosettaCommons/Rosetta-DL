@@ -10,3 +10,4 @@ For commercial licensing of this bundle, please contact the University of Washin
 3. [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction - Code, data, and weights use Rosetta-DL license
 4. [MaSIF](https://github.com/LPDI-EPFL/masif) - Molecular surface interaction fingerprints - MIT license
 5. [trRosetta2](https://github.com/RosettaCommons/trRosetta2) - Protein folding by Baker lab in CASP14 - MIT license
+6. [Protein-Seq-Des](https://github.com/ProteinDesignLab/protein_seq_des) - Protein sequence design from a learned potential - BSD3 license
