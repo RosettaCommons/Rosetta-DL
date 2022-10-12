@@ -7,7 +7,8 @@ For commercial licensing of this bundle, please contact the University of Washin
 
 # Rosetta-DL packages
 1. [RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - Protein folding - Code uses MIT license, data and weights use Rosetta-DL license
-3. [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction - Code, data, and weights use Rosetta-DL license
-4. [MaSIF](https://github.com/LPDI-EPFL/masif) - Molecular surface interaction fingerprints - MIT license
-5. [trRosetta2](https://github.com/RosettaCommons/trRosetta2) - Protein folding by Baker lab in CASP14 - MIT license
-6. [Protein-Seq-Des](https://github.com/ProteinDesignLab/protein_seq_des) - Protein sequence design from a learned potential - BSD3 license
+2. [DeepAb](https://github.com/RosettaCommons/DeepAb) - Antibody structure prediction - Code, data, and weights use Rosetta-DL license
+3. [MaSIF](https://github.com/LPDI-EPFL/masif) - Molecular surface interaction fingerprints - MIT license
+4. [trRosetta2](https://github.com/RosettaCommons/trRosetta2) - Protein folding by Baker lab in CASP14 - MIT license
+5. [Protein-Seq-Des](https://github.com/ProteinDesignLab/protein_seq_des) - Protein sequence design from a learned potential - BSD3 license
+6. [FvHallucinator](https://github.com/RosettaCommons/FvHallucinator) - Hallucination of antibody structures - Rosetta-DL license
